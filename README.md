@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ahoy there ☄
+
+- 📻 [Amateur (ham) radio operator](https://www.qrz.com/db/K0OPA)
+- 🍳 Home cook and 🍵 tea enthusiast
+- 🕹 [Lifelong gamer](https://www.youtube.com/prenetic) 🎙 moonlighting as a [livestreamer](https://www.twitch.tv/prenetic)
+- 🖥 Homelabber and 🕸 maintainer of [prenetic.com](https://prenetic.com/) and [isronwrong.com](https://isronwrong.com/)
+- 📸 [Photographer](https://500px.com/p/prenetic?view=photos) for the memories
 
 <!--
 **prenetic/prenetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
